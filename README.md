@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
 [![MasterHead](https://img.freepik.com/premium-photo/portrait-successful-programmer-game-developer-coder-guy-uses-computer-laptop-work-game-design-hacker-boy-generative-ai-coding-professional-hoodie_117038-5487.jpg)
 <h1 align="center">Hi 👋, I'm Yunus KANGAL</h1>
 <h3 align="center">I'm student at Yildiz Technical University</h3>
@@ -34,7 +35,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yunuskngl&show_icons=true&locale=en" alt="yunuskngl" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yunuskngl&" alt="yunuskngl" /></p>
-
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yunuskngl/Yunuskngl/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yunuskngl/Yunuskngl/output/github-contribution-grid-snake.svg">
