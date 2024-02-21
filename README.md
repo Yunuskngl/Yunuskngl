@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
+<div align="center">[![MasterHead](https://img.freepik.com/premium-photo/portrait-successful-programmer-game-developer-coder-guy-uses-computer-laptop-work-game-design-hacker-boy-generative-ai-coding-professional-hoodie_117038-5487.jpg)
+ </div>
 [![MasterHead](https://img.freepik.com/premium-photo/portrait-successful-programmer-game-developer-coder-guy-uses-computer-laptop-work-game-design-hacker-boy-generative-ai-coding-professional-hoodie_117038-5487.jpg)
 <h1 align="center">Hi 👋, I'm Yunus KANGAL</h1>
 <h3 align="center">I'm student at Yildiz Technical University</h3>
