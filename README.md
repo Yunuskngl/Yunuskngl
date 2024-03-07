@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![MasterHead]()
+
 <h1 align="center">Hi 👋, I'm Yunus KANGAL</h1>
 <h3 align="center">I'm student at Yildiz Technical University</h3>
 
