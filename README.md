@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 <div align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunuskngl&show_icons=true&locale=en&layout=compact" alt="yunuskngl" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yunuskngl&" alt="yunuskngl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yunuskngl&show_icons=true&locale=en" alt="yunuskngl" />
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yunuskngl/Yunuskngl/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yunuskngl/Yunuskngl/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yunuskngl/Yunuskngl/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yunuskngl/Yunuskngl/output/github-contribution-grid-snake-dark.svg" width="500" height="100">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yunuskngl/Yunuskngl/output/github-contribution-grid-snake.svg" width="500" height="100">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yunuskngl/Yunuskngl/output/github-contribution-grid-snake.svg" width="500" height="100">
 </picture>
-
