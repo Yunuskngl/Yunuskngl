@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="left">Hi 👋, I'm Yunus KANGAL</h1>
 <h3 align="left">I'm student at Yildiz Technical University</h3>
 
-🌱 I’m currently learning ML and Java Programming Language.
+🌱 I’m currently learning Machine Learning.
 
 📫 How to reach me yunuskanngal@gmail.com
 
