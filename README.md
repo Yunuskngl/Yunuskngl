@@ -59,3 +59,13 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+<h3 align="left">Most Used Languages:</h3>
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunuskngl&show_icons=true&locale=en&layout=compact" alt="yunuskngl" />
+</p>
+
+<h3 align="left">Contribution Stats:</h3>
+<p align="left">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yunuskngl&" alt="yunuskngl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yunuskngl&show_icons=true&locale=en" alt="yunuskngl" />
+</p>
