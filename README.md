@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">Hi 👋, I'm Yunus KANGAL</h1>
+<h2 align="left">Hi 👋, I'm Yunus KANGAL</h2>
 <h3 align="left">I'm student at Yildiz Technical University</h3>
 
 🌱 I’m currently learning Machine Learning.
@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/yunus kangal](https://www.linkedin.com/in/yunus-kangal-53a703229/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunus kangal" height="30" width="40" /></a>
-<a href="https://instagram.com/yunus.kngl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yunus.kngl" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/yunuskanngal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yunuskanngal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yunuskanngal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yunuskanngal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yunus-kangal-53a703229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunus kangal" height="30" width="40" /></a>
+<a href="https://www.instagram.com/yunus.kngl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yunus.kngl" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/yunuskanngal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yunuskanngal" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/yunuskanngal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yunuskanngal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
