@@ -65,7 +65,12 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">Contribution Stats:</h3>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yunuskngl&" alt="yunuskngl" style="display:inline-block;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yunuskngl&show_icons=true&locale=en" alt="yunuskngl" style="display:inline-block;" />
+</p>
+
+<h3 align="left">Yunus Kangal's GitHub Stats:</h3>
 <p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yunuskngl&" alt="yunuskngl" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yunuskngl&show_icons=true&locale=en" alt="yunuskngl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yunuskngl&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="yunuskngl" />
 </p>
