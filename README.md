@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 <h3 align="left">Most Used Languages:</h3>
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunuskngl&show_icons=true&locale=en&layout=compact" alt="yunuskngl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunuskngl&show_icons=true&locale=en&layout=compact&theme=dark" alt="yunuskngl" />
 </p>
 
 <h3 align="left">Contribution Stats:</h3>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yunuskngl&" alt="yunuskngl" style="flex: 1; min-width: 300px; max-width: 45%;" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yunuskngl&show_icons=true&locale=en" alt="yunuskngl" style="flex: 1; min-width: 300px; max-width: 45%;" />
+<div style="display: flex; justify-content: space-between;">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yunuskngl&theme=dark" alt="yunuskngl" style="width: 48%;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yunuskngl&show_icons=true&locale=en&theme=dark" alt="yunuskngl" style="width: 48%;" />
 </div>
