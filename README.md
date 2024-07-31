@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Yunus KANGAL</h1>
-<h3 align="center">I'm student at Yildiz Technical University</h3>
+<h1 align="left">Hi 👋, I'm Yunus KANGAL</h1>
+<h3 align="left">I'm student at Yildiz Technical University</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<div align="center">
+<div align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yunuskngl&show_icons=true&locale=en" alt="yunuskngl" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yunuskngl&" alt="yunuskngl" />
 </div>
