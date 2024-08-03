@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Most Used Languages and LeetCode Stats:</h3>
 <div style="display: flex; justify-content: space-between;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunuskngl&show_icons=true&locale=en&layout=compact&theme=dark" alt="yunuskngl" style="width: 48%;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunuskngl&show_icons=true&locale=en&layout=compact&theme=dark" alt="yunuskngl" style="width: 40%;" />
   <a href="https://leetcode.com/u/yunuskanngal/" target="_blank">
     <img align="center" src="https://leetcard.jacoblin.cool/yunuskanngal?theme=dark&font=Baloo&ext=contest" alt="yunuskanngal" style="width: 48%;" />
   </a>
