@@ -69,6 +69,6 @@ Here are some ideas to get you started:
 
 <h3 align="left">Contribution Stats:</h3>
 <div style="display: flex; justify-content: space-between;">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yunuskngl&theme=dark" alt="yunuskngl" style="width: 48%;" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yunuskngl&theme=dark" alt="yunuskngl" style="width: 50%;" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yunuskngl&show_icons=true&locale=en&theme=dark" alt="yunuskngl" style="width: 48%;" />
 </div>
