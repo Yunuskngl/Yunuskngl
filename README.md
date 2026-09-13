@@ -1,74 +1,46 @@
-<!--
-**Yunuskngl/Yunuskngl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Yunus KANGAL
 
-Here are some ideas to get you started:
+**Mathematical Engineer | Software Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m passionate about Backend Development, Machine Learning, and Software Engineering. 
 
-<h2 align="left">Hi 👋, I'm Yunus KANGAL</h2>
-<h3 align="left">I'm student at Yildiz Technical University</h3>
-
-🌱 I’m currently learning Machine Learning.
-
-📫 How to reach me yunuskanngal@gmail.com
-
-<h3 align="left">Connect with me:</h3>
+### 📫 Connect with me
 <p align="left">
-<a href="https://www.linkedin.com/in/yunus-kangal-53a703229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunus kangal" height="30" width="40" /></a>
-<a href="https://www.instagram.com/yunus.kngl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yunus.kngl" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/yunuskanngal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yunuskanngal" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/yunuskanngal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yunuskanngal" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/yunus-kangal-53a703229/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:yunuskanngal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://leetcode.com/u/yunuskanngal/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://www.hackerrank.com/profile/yunuskanngal"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://www.instagram.com/yunus.kngl/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### 🛠️ Languages & Tools
+
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,html,css,git&perline=10" alt="Tech Stack" />
   </a>
 </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+</p>
 
-<h3 align="left">Most Used Languages and LeetCode Stats:</h3>
-<div style="display: flex; justify-content: space-between;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunuskngl&show_icons=true&locale=en&layout=compact&theme=dark" alt="yunuskngl" style="width: 35%;" />
-  <a href="https://leetcode.com/u/yunuskanngal/" target="_blank">
-    <img align="center" src="https://leetcard.jacoblin.cool/yunuskanngal?theme=dark&font=Baloo&ext=contest" alt="yunuskanngal" style="width: 48%;" />
-  </a>
+---
+
+### 📊 GitHub & LeetCode Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yunuskngl&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yunuskngl&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 </div>
 
-<h3 align="left">Contribution Stats:</h3>
-<div style="display: flex; justify-content: space-between;">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yunuskngl&theme=dark" alt="yunuskngl" style="width: 50%;" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yunuskngl&show_icons=true&locale=en&theme=dark" alt="yunuskngl" style="width: 48%;" />
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yunuskngl&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <a href="https://leetcode.com/u/yunuskanngal/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/yunuskanngal?theme=dark&font=Baloo&ext=contest" alt="LeetCode Stats" width="48%" />
+  </a>
 </div>
