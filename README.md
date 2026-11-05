@@ -1,21 +1,27 @@
-# Hi there 👋, I'm Yunus KANGAL
+# Hi, I'm Yunus Kangal 👋
 
-**Mathematical Engineer | Software Developer**
+**Backend Developer (.NET) · AI Integration · Mathematical Engineer (YTU '26)**
 
-🌱 I’m passionate about Backend Development, Machine Learning, and Software Engineering. 
+I build backend systems with C# and .NET, and I'm focused on integrating LLMs into real-world applications. I graduated in Mathematical Engineering from Yıldız Technical University in 2026.
 
-### 📫 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/yunus-kangal-53a703229/)
-- [Email](mailto:yunuskanngal@gmail.com)
-- [LeetCode](https://leetcode.com/u/yunuskanngal/)
-- [HackerRank](https://www.hackerrank.com/profile/yunuskanngal)
-- [Instagram](https://www.instagram.com/yunus.kngl/)
+### 💼 Experience
 
----
+- **TÜBİTAK BİLGEM** — Backend Developer (Part-time) · Nov 2024 – Aug 2026
+- **YTU SKY LAB** — Algorithm Team Leader & Mentor · 2023 – 2026
 
-### 🛠️ Technical Skills
+### 🛠️ Tech Stack
 
-- **Languages:** C#, Python, TypeScript, JavaScript, SQL, C/C++, Java
-- **Backend & Web:** .NET Core, Express.js, Node.js, Next.js, RESTful APIs, Microservices, HTML5/CSS3
-- **Databases & Tools:** PostgreSQL, MySQL, Redis, SQLite, Prisma ORM, Entity Framework
-- **Cloud & DevOps:** Docker, Kubernetes, CI/CD, AWS (S3), Cloudflare R2, Linux/Bash, Git
+- **Languages:** C# · Python · TypeScript · SQL · C/C++
+- **Backend:** .NET · ASP.NET Core · REST APIs · Entity Framework · Node.js
+- **Databases:** PostgreSQL · MySQL · SQLite · Redis
+- **Tools:** Git · Docker · Linux
+
+### 🌱 Currently Learning
+
+- ASP.NET Core Web API & software architecture
+- Building with LLM APIs, RAG and MCP (Claude Academy)
+- Preparing for Microsoft Azure AI Fundamentals (AI-901)
+
+### 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/yunus-kangal-53a703229/) · [LeetCode](https://leetcode.com/u/yunuskanngal/) · [HackerRank](https://www.hackerrank.com/profile/yunuskanngal) · [Email](mailto:yunuskanngal@gmail.com)
